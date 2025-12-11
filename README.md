@@ -1,3 +1,0 @@
-Pada proyek ini saya diminta untuk membuat sebuah simulasi sederhana mengenai bagaimana bola dapat bergerak dan memantul di dalam sebuah jendela (window) menggunakan bahasa pemrograman C++. Program ini menampilkan banyak bola berwarna yang bergerak dengan kecepatan tertentu, kemudian akan memantul ketika mengenai batas jendela—baik sisi kiri, kanan, atas, maupun bawah.
-
-Simulasi ini dibuat sebagai pengantar grafika komputer dan fisika sederhana, khususnya mengenai deteksi tumbukan (collision detection) dan pembaruan posisi objek secara real-time. Implementasi algoritma yang digunakan mengikuti konsep dasar seperti Brute Force untuk memeriksa tumbukan, serta opsi pengembangan menggunakan Quadtree untuk optimasi.
