@@ -39,4 +39,4 @@ Validasi logika brute force sebelum membandingkan dengan quadtree
 
 
 ## Simulasi
-![Demo Video](./video.gif)
+![Demo Video](./demo/video.gif)
