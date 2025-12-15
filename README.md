@@ -25,19 +25,16 @@ Fitur Utama
 Selama pengembangan, terdapat beberapa kendala, antara lain:
 
 Logika collision tidak langsung bekerja mulus
-
 Bola sempat menembus dinding window
-
 Tumbukan antar bola tidak langsung memantul dengan benar
-
 Implementasi Quadtree awalnya menghasilkan FPS yang sama dengan Brute Force
 
 ## Masalah tersebut diselesaikan dengan:
 
 Perbaikan perhitungan normal collision
-
 Penanganan overlap antar bola
-
 Pengujian bertahap dengan jumlah bola kecil hingga besar
+Validasi logika brute force sebelum membandingkan dengan quadtree
 
-Validasi logika brute force sebelum membandingkan dengan quadtre
+## Simulasi
+![Demo Video](./video.gif)
